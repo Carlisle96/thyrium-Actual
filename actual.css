@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "Hasklug Nerd Font";
-    src: url(./HasklugNerdFont.otf);
+    font-family: "Hasklig";
+    src: url(./Hasklig.ttf);
 }
 
 :root {
-    --font-family: "Hasklug Nerd Font";
+    --font-family: "Hasklig";
 
     /* Page Colors */
     --color-pageBackground: #1b1c1d;
