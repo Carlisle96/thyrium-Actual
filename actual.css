@@ -15,10 +15,10 @@
     --color-pageBackgroundLineMid: #b8a952;
     --color-pageBackgroundLineBottom: #b8a952;
     --color-pageText: #e9eaeb;
-    --color-pageTextLight: #7652b8;
-    --color-pageTextSubdued: #000000;
+    --color-pageTextLight: #cec2e5;
+    --color-pageTextSubdued: #7652b8;
     --color-pageTextDark: #5294b8;
-    --color-pageTextPositive: #5294b8;
+    --color-pageTextPositive: #94b852;
     --color-pageTextLink: #1b1c1d;
     --color-pageTextLinkLight: #7652b8;
 
@@ -123,40 +123,40 @@
     --color-buttonMenuSelectedText: #e9eaeb;
     --color-buttonMenuSelectedTextHover: #e9eaeb;
     --color-buttonMenuSelectedBackground: #7652b8;
-    --color-buttonMenuSelectedBackgroundHover: #b85294;
+    --color-buttonMenuSelectedBackgroundHover: #b85261;
     --color-buttonMenuSelectedBorder: #7652b8;
 
     /* Button Primary Colors */
     --color-buttonPrimaryText: #e9eaeb;
-    --color-buttonPrimaryTextHover: #e9eaeb;
+    --color-buttonPrimaryTextHover: #1b1c1d;
     --color-buttonPrimaryBackground: #7652b8;
-    --color-buttonPrimaryBackgroundHover: #b85294;
-    --color-buttonPrimaryBorder: #7652b8;
+    --color-buttonPrimaryBackgroundHover: #cec2e5;
+    --color-buttonPrimaryBorder: #18191a;
     --color-buttonPrimaryShadow: rgba(0, 0, 0, 0.4);
-    --color-buttonPrimaryDisabledText: #5294b8;
+    --color-buttonPrimaryDisabledText: #b85261;
     --color-buttonPrimaryDisabledBackground: #1b1c1d;
     --color-buttonPrimaryDisabledBorder: #27292d;
 
     /* Button Normal Colors */
     --color-buttonNormalText: #e9eaeb;
     --color-buttonNormalTextHover: #e9eaeb;
-    --color-buttonNormalBackground: #27292d;
-    --color-buttonNormalBackgroundHover: #1b1c1d;
-    --color-buttonNormalBorder: #1b1c1d;
+    --color-buttonNormalBackground: #1b1c1d;
+    --color-buttonNormalBackgroundHover: #7652b8;
+    --color-buttonNormalBorder: #18191a;
     --color-buttonNormalShadow: rgba(0, 0, 0, 0.3);
     --color-buttonNormalSelectedText: #e9eaeb;
     --color-buttonNormalSelectedBackground: #7652b8;
-    --color-buttonNormalDisabledText: #5294b8;
-    --color-buttonNormalDisabledBackground: #18191a;
-    --color-buttonNormalDisabledBorder: #27292d;
+    --color-buttonNormalDisabledText: #b85261;
+    --color-buttonNormalDisabledBackground: #27292d;
+    --color-buttonNormalDisabledBorder: #18191a;
 
     /* Button Bare Colors */
     --color-buttonBareText: #e9eaeb;
     --color-buttonBareTextHover: #e9eaeb;
     --color-buttonBareBackground: transparent;
-    --color-buttonBareBackgroundHover: rgba(206, 194, 229, 0.12);
+    --color-buttonBareBackgroundHover: #1b1c1d;
     --color-buttonBareBackgroundActive: rgba(206, 194, 229, 0.22);
-    --color-buttonBareDisabledText: #5294b8;
+    --color-buttonBareDisabledText: #b85261;
     --color-buttonBareDisabledBackground: transparent;
 
     /* Calendar Colors */
@@ -224,10 +224,10 @@
     --color-pillBackground: #27292d;
     --color-pillBackgroundLight: #27292d;
     --color-pillText: #e9eaeb;
-    --color-pillTextHighlighted: #cec2e5;
+    --color-pillTextHighlighted: #7652b8;
     --color-pillBorder: #1b1c1d;
     --color-pillBorderDark: #1b1c1d;
-    --color-pillBackgroundSelected: rgba(206, 194, 229, 0.12);
+    --color-pillBackgroundSelected: #7652b8;
     --color-pillTextSelected: #e9eaeb;
     --color-pillBorderSelected: #7652b8;
     --color-pillTextSubdued: #5294b8;
