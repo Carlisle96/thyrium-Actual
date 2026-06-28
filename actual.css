@@ -15,7 +15,7 @@
     --color-pageBackgroundLineMid: #b8a952;
     --color-pageBackgroundLineBottom: #b8a952;
     --color-pageText: #e9eaeb;
-    --color-pageTextLight: #cec2e5;
+    --color-pageTextLight: #5294b8;
     --color-pageTextSubdued: #7652b8;
     --color-pageTextDark: #5294b8;
     --color-pageTextPositive: #94b852;
@@ -57,7 +57,7 @@
     --color-tableRowBackgroundHighlight: #7652b8;
     --color-tableRowBackgroundHighlightText: #e9eaeb;
     --color-tableRowHeaderBackground: #18191a;
-    --color-tableRowHeaderText: #e9eaeb;
+    --color-tableRowHeaderText: #5294b8;
 
     /* Number Colors */
     --color-numberPositive: #94b852;
@@ -168,30 +168,30 @@
     --color-calendarCellBackground: #27292d;
 
     /* Notice/Warning/Error Colors */
-    --color-noticeBackground: rgba(148, 184, 82, 0.16);
-    --color-noticeBackgroundLight: rgba(148, 184, 82, 0.1);
-    --color-noticeBackgroundDark: rgba(148, 184, 82, 0.24);
+    --color-noticeBackground: #18191a;
+    --color-noticeBackgroundLight: #18191a;
+    --color-noticeBackgroundDark: #18191a;
     --color-noticeText: #94b852;
     --color-noticeTextLight: #94b852;
     --color-noticeTextDark: #94b852;
     --color-noticeTextMenu: #94b852;
     --color-noticeBorder: #94b852;
 
-    --color-warningBackground: rgba(184, 169, 82, 0.16);
+    --color-warningBackground: #18191a;
     --color-warningText: #b8a952;
     --color-warningTextLight: #eee766;
     --color-warningTextDark: #b8a952;
     --color-warningBorder: #b8a952;
 
-    --color-errorBackground: #d9798e;
+    --color-errorBackground: #18191a;
     --color-errorText: #b85261;
     --color-errorTextDark: #b85261;
     --color-errorTextDarker: #b85261;
     --color-errorTextMenu: #b85261;
     --color-errorBorder: #b85261;
 
-    --color-upcomingBackground: #7652b8;
-    --color-upcomingText: #e9eaeb;
+    --color-upcomingBackground: #18191a;
+    --color-upcomingText: #7652b8;
     --color-upcomingBorder: #7652b8;
 
     /* Form Colors */
